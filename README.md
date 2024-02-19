@@ -1,6 +1,6 @@
 # Parking Incentive Allocation for Ridesharing Systems
-Data used in the paper "A Parking Incentive Allocation Problem for Ridesharing Systems".
-The following describes the columns contained in each files. 
+Data used in the paper 'A Parking Incentive Allocation Problem for Ridesharing Systems.'  
+The following describes the columns contained in each file.
 
 drivers.csv: information about drivers.
 - origin: (longitude, latitude) coordinates of drivers' origin.
